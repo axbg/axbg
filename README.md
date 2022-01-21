@@ -1,7 +1,7 @@
 <h2 align="center">hello there 👋</h2>
 
 <p align="center">
-  <a href="mailto:alexbisag@protonmail.com">
+  <a href="mailto:alexbisag@pm.me">
     <img src="./assets/img/proton.png">
   </a>
   <a href="https://encapsulated.dev" target="_blank">
