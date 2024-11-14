@@ -1,9 +1,9 @@
 <h2 align="center">hello there 👋</h2>
 
 <p align="center">
-  <a href="mailto:alexbisag@pm.me">
+<!--   <a href="mailto:alexbisag@pm.me">
     <img src="./assets/img/proton.png">
-  </a>
+  </a> -->
   <a href="https://encapsulated.axbg.cloud" target="_blank">
     <img src="./assets/img/encapsulated.png">
   </a>
