@@ -4,7 +4,7 @@
 <!--   <a href="mailto:alexbisag@pm.me">
     <img src="./assets/img/proton.png">
   </a> -->
-  <a href="https://encapsulated.axbg.cloud" target="_blank">
+  <a href="https://blog.axbg.space" target="_blank">
     <img src="./assets/img/encapsulated.png">
   </a>
   <a href="https://medium.com/@axbg" target="_blank">
